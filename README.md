@@ -14,7 +14,7 @@
 
 #### Worked a bit with
 
-![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=for-the-badge&logo=wordpress)
+![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=for-the-badge&logo=wordpress&logoColor=blue)
 
 #### Contact me
 
