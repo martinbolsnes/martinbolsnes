@@ -2,6 +2,8 @@
 
 ### I am a norwegian student, studying Front-end Development in Oslo. 
 
+---
+
 #### Currently learning
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
