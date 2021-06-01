@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## I am a norwegian student, studying Front-end Development in Oslo. 
+
+![alt text](https://cdn.dribbble.com/users/713533/screenshots/2405941/loading-computer.gif)
+
 <!--
 **martinbolsnes/martinbolsnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
