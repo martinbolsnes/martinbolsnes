@@ -1,4 +1,4 @@
-## Welcome to my Github profile!
+## Hi and welcome!
 
 - Front-end Development student
 - 26 years old, from Molde in the northwestern part of Norway
