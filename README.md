@@ -4,6 +4,7 @@
 
 ### Currently learning
 
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 
 <!--
