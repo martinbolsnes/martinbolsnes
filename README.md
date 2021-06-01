@@ -2,9 +2,9 @@
 
 ## I am a norwegian student, studying Front-end Development in Oslo. 
 
-## Currently learning
+### Currently learning
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=appveyor=javascript)
 
 <!--
 **martinbolsnes/martinbolsnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
