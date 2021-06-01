@@ -2,7 +2,7 @@
 
 ### I am a norwegian student, studying Front-end Development in Oslo. 
 
-[title](https://flevix.com/wp-content/uploads/2019/07/Comp-2.gif)
+![alt text](https://flevix.com/wp-content/uploads/2019/07/Comp-2.gif)
 
 ---
 
