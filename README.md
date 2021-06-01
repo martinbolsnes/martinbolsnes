@@ -1,8 +1,8 @@
-## Welcome! 👋
+## Welcome to my Github profile!
 
-### Norwegian student, studying Front-end Development. 
-### I am 26 years old, from Molde in the northwestern part of Norway. 
-### Now i live in Oslo and study at Noroff, trying to do some coding.
+- Norwegian student, studying Front-end Development. 
+- I am 26 years old, from Molde in the northwestern part of Norway. 
+- Now i live in Oslo and study at Noroff, trying to do some coding.
 
 ---
 
