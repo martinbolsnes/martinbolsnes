@@ -4,7 +4,7 @@
 
 ### Currently learning
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=appveyor=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logor=javascript)
 
 <!--
 **martinbolsnes/martinbolsnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
