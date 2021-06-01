@@ -15,6 +15,10 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&link=https://www.instagram.com/martinbolsnes/)](https://www.instagram.com/martinbolsnes/)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&link=https://twitter.com/martinbolsnes)](https://twitter.com/martinbolsnes)
 
+---
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=martinbolsnes&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+
 <!--
 **martinbolsnes/martinbolsnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
