@@ -1,14 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-## I am a norwegian student, studying Front-end Development in Oslo. 
+### I am a norwegian student, studying Front-end Development in Oslo. 
 
-### Currently learning
+#### Currently learning
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 
-### Contact me
+#### Contact me
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/martin-bols%C3%B8nes-5973941b5/)](https://www.linkedin.com/in/martin-bols%C3%B8nes-5973941b5/)
 
