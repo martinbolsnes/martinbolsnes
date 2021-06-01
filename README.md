@@ -10,9 +10,7 @@
 
 ### Contact me
 
-![Linkedin Badge](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=&link=https://www.linkedin.com/in/martin-bols%C3%B8nes-5973941b5/)](https://www.linkedin.com/in/martin-bols%C3%B8nes-5973941b5/)
-
-[![Linkedin Badge](https://img.shields.io/badge/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-bols%C3%B8nes-5973941b5/)](https://www.linkedin.com/in/martin-bols%C3%B8nes-5973941b5/)
+![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin)
 
 <!--
 **martinbolsnes/martinbolsnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
