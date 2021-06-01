@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome! 👋
 
 ### I am a norwegian student, studying Front-end Development in Oslo. 
 
