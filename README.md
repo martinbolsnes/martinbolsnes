@@ -29,7 +29,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=martinbolsnes&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martinbolsnes)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=martinbolsnes&theme=dark&hide_border=true&fire=0CA3E2)](https://git.io/streak-stats)
 
 <!--
 **martinbolsnes/martinbolsnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
