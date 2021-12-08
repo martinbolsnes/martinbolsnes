@@ -14,9 +14,15 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 
+#### Worked with
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+
 #### Worked a bit with
 
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=for-the-badge&logo=wordpress&logoColor=blue)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #### Contact me
 
