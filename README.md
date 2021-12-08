@@ -16,8 +16,8 @@
 
 #### Worked with
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg-black?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg-black?style=for-the-badge&logo=strapi&logoColor=white)
 
 #### Worked a bit with
 
