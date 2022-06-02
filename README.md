@@ -2,20 +2,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611b6bcb5ee51dcc7679d45174d9b63284b066e92ae&rid=giphy.gif&ct=g">
 
-- Frontend Development student
+- Frontend Development student, graduating summer 2022
 - 27 years old, from Molde in the northwestern part of Norway
 - Now live in Oslo and study at Noroff, trying to do some coding
 
 ---
 
-#### Currently learning
+#### Languages and frameworks I know
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-#### Worked with
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
