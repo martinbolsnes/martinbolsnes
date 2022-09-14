@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611b6bcb5ee51dcc7679d45174d9b63284b066e92ae&rid=giphy.gif&ct=g">
 
-- Frontend Development living in Fredrikstad
+- Frontend Developer living in Fredrikstad
 - 27 years old, from Molde in the northwestern part of Norway
 - Graduated from Noroff in Oslo summer 2022
 
