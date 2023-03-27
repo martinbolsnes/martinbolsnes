@@ -1,9 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/martinbolsnes/martinbolsnes/main/Banner.png)
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611b6bcb5ee51dcc7679d45174d9b63284b066e92ae&rid=giphy.gif&ct=g">
 
 - Frontend Developer living in Fredrikstad
-- 28 years old, from Molde in the northwestern part of Norway
+- React - Next.js - Tailwind
+- 28 years old, from Molde,Norway
 - Graduated from Noroff in Oslo summer 2022
 
 ---
@@ -22,6 +22,10 @@
 #### Worked a bit with
 
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=for-the-badge&logo=wordpress&logoColor=blue)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### Contact me
 
