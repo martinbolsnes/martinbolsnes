@@ -36,7 +36,7 @@
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=martinbolsnes&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinbolsnes)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=martinbolsnes&theme=dark)](https://git.io/streak-stats)
 
