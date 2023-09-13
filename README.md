@@ -38,7 +38,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=martinbolsnes&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=martinbolsnes&theme=dark&hide_border=true&fire=0CA3E2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=martinbolsnes&theme=dark)](https://git.io/streak-stats)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=martinbolsnes)
 
