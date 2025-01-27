@@ -3,7 +3,7 @@
 
 - Frontend Developer living in Fredrikstad
 - React - Next.js - Tailwind
-- 28 years old from Molde, Norway
+- 30 years old from Molde, Norway
 - Graduated from Noroff in Oslo summer 2022
 
 ---
