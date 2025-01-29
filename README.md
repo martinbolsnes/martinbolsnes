@@ -38,7 +38,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinbolsnes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=martinbolsnes&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=martinbolsnes)](https://git.io/streak-stats)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=martinbolsnes)
 
