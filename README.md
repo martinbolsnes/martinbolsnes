@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/martinbolsnes/martinbolsnes/main/Banner.png)
+![MasterHead](https://raw.githubusercontent.com/martinbolsnes/martinbolsnes/refs/heads/main/Github%20Banner.png)
 
 
 - Frontend Developer living in Fredrikstad
